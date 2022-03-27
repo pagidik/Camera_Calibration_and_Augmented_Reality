@@ -1,7 +1,7 @@
 # Camera_Calibration_and_Augmented_Reality
 
 CS5330 - Project 4: Calibration and Augmented Reality
-Wiki Khoury Report : https://wiki.khoury.northeastern.edu/x/KdZ5Bg
+
 
 Operating System - Linux(Ubuntu)
 IDE - Visual Studio Code
@@ -20,7 +20,8 @@ Then type the following commands,
 
 1. cmake .
 2. make
-3. ./CV_PROJECT_4 <label>
-
+3. ./CV_PROJECT_4 /<label>
+  
+Wiki Khoury Report : https://wiki.khoury.northeastern.edu/x/KdZ5Bg
 
 No of Travel Time days = 1
