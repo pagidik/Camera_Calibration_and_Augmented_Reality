@@ -1,7 +1,6 @@
 # Camera_Calibration_and_Augmented_Reality
 
-CS5330 - Project 4: Calibration and Augmented Reality
-
+In this project, the user has to take multiple photos of the chessboard at different angles in order to extract the intrinsic features of the camera. The features are stored in a text file. Another part of the project is to draw a 3D object on the chessboard. Harris corner features are also detected as part of the project.
 
 Operating System - Linux(Ubuntu)
 IDE - Visual Studio Code
@@ -24,4 +23,3 @@ Then type the following commands,
   
 Wiki Khoury Report : https://wiki.khoury.northeastern.edu/x/KdZ5Bg
 
-No of Travel Time days = 1
