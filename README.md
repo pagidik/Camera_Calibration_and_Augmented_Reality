@@ -1,6 +1,6 @@
 # Camera_Calibration_and_Augmented_Reality
 
-In this project, the user has to take multiple photos of the chessboard at different angles in order to extract the intrinsic features of the camera. The features are stored in a text file. Another part of the project is to draw a 3D object on the chessboard. Harris corner features are also detected as part of the project.
+In this project, the user has to take multiple photos of the chessboard at different angles in order to extract the intrinsic features of the camera such as camera matrix and distortion matrix. The features are stored in a text file. The program can detect a target and then place a virtual object in the scene relative to the target that moves and orients itself correctly given motion of the camera or target. Harris corner features are also detected to use as a features in the real world and use these corners to project the virtual objests in the real world..
 
 Operating System - Linux(Ubuntu)
 IDE - Visual Studio Code
